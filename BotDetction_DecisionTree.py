@@ -1,7 +1,5 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split as tts
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.svm import SVC
 import sklearn
 from sklearn import metrics
 from sklearn.tree import DecisionTreeClassifier
